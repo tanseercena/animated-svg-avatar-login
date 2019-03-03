@@ -5,7 +5,8 @@ __Demo__
 http://demos.tanseer.com/animated-svg-avatar-login/
 <br>
 __See In Action__
-<br>
-<div style="text-align: center">
-  <img src="http://tanseer.com/wp-content/uploads/2019/03/animated-svg-avatar-login-form.gif" alt="Animated SVG avatar Login Form by Tanseer">
-  </div>
+
+<p align="center">
+<img src="http://tanseer.com/wp-content/uploads/2019/03/animated-svg-avatar-login-form.gif" alt="Animated SVG avatar Login Form by Tanseer">
+</p>
+
