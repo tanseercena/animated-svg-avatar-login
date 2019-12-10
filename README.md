@@ -8,7 +8,9 @@ http://demos.tanseer.com/animated-svg-avatar-login/
   <strong>See In Action</strong>
 </p>
 <p align="center">
-  
+
 <img src="http://tanseer.com/wp-content/uploads/2019/03/animated-svg-avatar-login-form.gif" alt="Animated SVG avatar Login Form by Tanseer">
 </p>
 
+***Note:
+Demo Links is not working.
